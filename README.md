@@ -70,6 +70,9 @@ RF4 = 4 kΩ
 
 ## Stage 4: Full Wave Rectifier ##
 
+<img width="945" height="502" alt="image" src="https://github.com/user-attachments/assets/369342fb-7f38-4d07-b1b4-035610caa9e2" />
+
+
 Vout = Vin, Vin > 0
 
 Vout = (R1*R3-R2*R4)/(R1*R3)*Vin, Vin < 0
